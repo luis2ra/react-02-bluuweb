@@ -11,6 +11,7 @@ const Contador = () => {
         setNumero(numero + 1)
     };
 
+    // el return debe envolver todo en un contenedor: div, fragment
     return ( 
         <Fragment>
             <h3>Mi primer Componente en React: {numero}</h3>
