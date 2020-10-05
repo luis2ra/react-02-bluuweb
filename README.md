@@ -19,3 +19,6 @@ Segundo proyecto my-react-hook-form-2 para uso de formularios de reack-hook-form
 
 branch -> project5
 Revisión de los componentes en React y el uso de los "props" como elementos que permiten el intercambio de información.
+
+branch -> project6
+Ejercicio de un CRUD usando React Hooks.
