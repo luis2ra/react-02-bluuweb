@@ -1,8 +1,8 @@
 import React from 'react';
-import Jsx from './components/Jsx';
-import Lista from './components/Lista';
-import Formulario from './components/Formulario';
-import FormHook from './components/ReactHookForm';
+import Jsx from './components/01-Jsx';
+import Lista from './components/02-Lista';
+import Formulario from './components/03-Formulario';
+import FormHook from './components/04-ReactHookForm';
 
 function App() {
 	return (

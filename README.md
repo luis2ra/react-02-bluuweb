@@ -8,4 +8,6 @@ branch -> project2
 Generación del proyecto my-app-2 como segundo proyecto en el que se definen
 nuevos componentes, que contienen ejemplos de:
 - JSX
-- 
+- Listas y Keys
+- Formularios
+- react-hook-form
